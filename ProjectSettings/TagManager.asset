@@ -43,3 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: GameElement
+    uniqueID: 1070042113
+    locked: 0
+  - name: Interfaccia
+    uniqueID: 604516837
+    locked: 0
