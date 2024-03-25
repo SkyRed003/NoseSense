@@ -84,7 +84,7 @@ SpriteRenderer:
   m_Size: {x: 3.86, y: 1.12}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!251 &7751618125629852495
@@ -143,9 +143,11 @@ EdgeCollider2D:
   m_Points:
   - {x: -2.005427, y: 0.23678532}
   - {x: -1.9837377, y: 0.29191884}
-  - {x: -1.6224225, y: 0.41722292}
-  - {x: -0.85889184, y: 0.56598675}
-  - {x: 0.14100373, y: 0.58585835}
+  - {x: -1.6613863, y: 0.5022768}
+  - {x: -1.3791796, y: 0.57881165}
+  - {x: -0.8686327, y: 0.68197286}
+  - {x: 0.14100373, y: 0.67091525}
+  - {x: 0.673475, y: 0.6122542}
   - {x: 1.2617152, y: 0.51255715}
   - {x: 1.7515259, y: 0.3560907}
   - {x: 1.93, y: 0.13991852}
@@ -166,3 +168,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   force: 15
+  myAnimationController: {fileID: 0}
