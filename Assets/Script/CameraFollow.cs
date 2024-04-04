@@ -8,6 +8,7 @@ public class CameraFollow : MonoBehaviour
    public Transform target;
    public Text scoreText;
 
+
     private void Update() {
 
       scoreText.text = ((int)(transform.position.y * 10)).ToString();
@@ -22,4 +23,6 @@ public class CameraFollow : MonoBehaviour
         transform.position = newPos;
        }
     }
+
+ 
 }

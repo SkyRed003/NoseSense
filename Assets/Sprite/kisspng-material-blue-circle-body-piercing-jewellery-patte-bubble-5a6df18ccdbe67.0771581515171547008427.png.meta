@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 75229fba103b5477b96a4643173b4c38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 204
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0308fa3c8044ded95bb31a0fd4ed01
+      internalID: -787755078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8d9d698de02424b8153c1d32c69561
+      internalID: 1286257258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 186
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10507b611654b48998f1af057c545504
+      internalID: 2139252150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51b9552ee8b435f9d8b6722ea39bd4
+      internalID: -365363285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 54
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df86b81a8b44b88a7f856e8765557e
+      internalID: -1479952480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85d467a93a540a8b8cedab0ad4e2a5
+      internalID: 292604191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ddb93e7c0d454c9d1fb064ffeb480
+      internalID: 1039056697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c830b508814145aeaf476897f7bac
+      internalID: 536880311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ae31b9b5c84a7e84c8cd3daf8ae03
+      internalID: 1927907693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b156e9d8519485099300fb83d22c3b
+      internalID: -1798935092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_0: -787755078
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_1: 1286257258
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_2: 2139252150
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_3: -365363285
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_4: -1479952480
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_5: 292604191
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_6: 1039056697
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_7: 536880311
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_8: 1927907693
+      kisspng-material-blue-circle-body-piercing-jewellery-patte-bubble-5a6df18ccdbe67.0771581515171547008427_9: -1798935092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

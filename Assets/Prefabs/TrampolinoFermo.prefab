@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 7662708792384327856}
   - component: {fileID: 5221976715124623059}
   - component: {fileID: 7751618125629852495}
-  - component: {fileID: 420360837386919491}
   - component: {fileID: 2643846953987722470}
   m_Layer: 0
   m_Name: TrampolinoFermo
@@ -106,55 +105,6 @@ PlatformEffector2D:
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
---- !u!68 &420360837386919491
-EdgeCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7772121632953675859}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 1
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_EdgeRadius: 0
-  m_Points:
-  - {x: -2.005427, y: 0.23678532}
-  - {x: -1.9837377, y: 0.29191884}
-  - {x: -1.6613863, y: 0.5022768}
-  - {x: -1.3791796, y: 0.57881165}
-  - {x: -0.8686327, y: 0.68197286}
-  - {x: 0.14100373, y: 0.67091525}
-  - {x: 0.673475, y: 0.6122542}
-  - {x: 1.2617152, y: 0.51255715}
-  - {x: 1.7515259, y: 0.3560907}
-  - {x: 1.93, y: 0.13991852}
-  m_AdjacentStartPoint: {x: 0, y: 0}
-  m_AdjacentEndPoint: {x: 0, y: 0}
-  m_UseAdjacentStartPoint: 0
-  m_UseAdjacentEndPoint: 0
 --- !u!114 &2643846953987722470
 MonoBehaviour:
   m_ObjectHideFlags: 0

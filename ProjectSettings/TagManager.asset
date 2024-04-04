@@ -6,6 +6,8 @@ TagManager:
   tags:
   - LeftWall
   - RightWall
+  - Enemy
+  - DeadZone
   layers:
   - Default
   - TransparentFX

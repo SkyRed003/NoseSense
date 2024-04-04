@@ -4,47 +4,63 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-  [SerializeField] private Rigidbody2D myRigidbody;
+  private Rigidbody2D characterBody;
 
   private float ScreenWidth;
   public float moveSpeed = 300;
   public GameObject character;
-  private bool isJumping => myRigidbody.velocity.y > 0.01f;
+  private bool isJumping => characterBody.velocity.y > 0.01f;
+ 
+
+  bool facingRight = true;
 
   public void Jump(float force) {
     if(isJumping) return;
 
-    var velocity = myRigidbody.velocity;
+    var velocity = characterBody.velocity;
     velocity.y = force;
-    myRigidbody.velocity = velocity;
+    characterBody.velocity = velocity;
   }
 
   void Start() {
 
        ScreenWidth = Screen.width;
-        myRigidbody = character.GetComponent<Rigidbody2D>();
+        characterBody = character.GetComponent<Rigidbody2D>();
   }
 
    void Update() {
 
-      int i = 0;
+    
+    float move = Input.GetAxisRaw("Horizontal");
+    characterBody.velocity = new Vector2(move * moveSpeed, characterBody.velocity.y);
 
-        while (i < Input.touchCount) {
-            if (Input.GetTouch (i).position.x > ScreenWidth / 2) {
-                RunCharacter (1.0f);
-            }
-            if (Input.GetTouch (i).position.x < ScreenWidth / 2) {
-                RunCharacter (-1.0f);
-            }
-            ++i;
-        }
+
+
+    if (move < 0 && facingRight) {
+
+        flip();
+    }
+     if (move > 0 && !facingRight) {
+
+        flip();
+    }
+
+    
    }
     void FixedUpdate() {
         #if UNITY_EDITOR
-        RunCharacter(Input.GetAxis("Horizontal"));
+        RunCharacter(Input.GetAxisRaw("Horizontal"));
         #endif
     }
     private void RunCharacter(float horizontalInput) {
-        myRigidbody.AddForce(new Vector2(horizontalInput * moveSpeed * Time.deltaTime, 0));
+        characterBody.AddForce(new Vector2(horizontalInput * moveSpeed * Time.deltaTime, 0));
     }
+
+    void flip() {
+
+        facingRight = !facingRight;
+        transform.Rotate(0f, 180, 0f);
+    }
+
+   
 }
