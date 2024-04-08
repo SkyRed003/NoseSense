@@ -8,6 +8,7 @@ TagManager:
   - RightWall
   - Enemy
   - DeadZone
+  - Pesce
   layers:
   - Default
   - TransparentFX

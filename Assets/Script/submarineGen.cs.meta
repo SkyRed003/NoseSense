@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e7bc00ea00c9f4683a15f35b7394285e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sottomarino: {fileID: 519526075902366754, guid: d7dff1b3222b44beb872cd15ecedf2e4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
