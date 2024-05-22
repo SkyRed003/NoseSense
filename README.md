@@ -17,7 +17,6 @@ Nosense is a fun and addictive endless runner where players control a nose that 
 
 - Endless gameplay with increasing difficulty.
 - Unique character: a nose that jumps on trampolines.
-- Engaging graphics and animations.
 - High score tracking.
 
 ## Screenshots
