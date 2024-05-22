@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 7772121632953675859}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.43406105, y: -4.5289, z: 0}
-  m_LocalScale: {x: 1, y: 1.752, z: 1}
+  m_LocalPosition: {x: 1.0406, y: -5.0616, z: 0}
+  m_LocalScale: {x: 1.7641097, y: 1.1790978, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b17c75e363d6d4f82955c133a30dc324, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  force: 15
+  force: 20
   myAnimationController: {fileID: 0}
 --- !u!68 &644560589468744684
 EdgeCollider2D:
@@ -150,13 +150,16 @@ EdgeCollider2D:
     serializedVersion: 2
     m_Bits: 4294967295
   m_IsTrigger: 0
-  m_UsedByEffector: 0
+  m_UsedByEffector: 1
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -1.8950442, y: 0.48333806}
-  - {x: 1.918348, y: 0.5293725}
+  - {x: -1.8930237, y: 0.4241339}
+  - {x: -0.8092424, y: 0.9009334}
+  - {x: 0.6129264, y: 0.9217632}
+  - {x: 1.317136, y: 0.8277641}
+  - {x: 1.8806983, y: 0.497896}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0

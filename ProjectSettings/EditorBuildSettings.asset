@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scene/MainMenu.unity
     guid: a78a9e6527ed74ef78565e570e5e11c4
   - enabled: 1
-    path: Assets/Scene/FRAT.unity
+    path: Assets/Scene/NoSense.unity
     guid: 533c513101c114c95ba5d6e4d521dc9c
   - enabled: 1
     path: Assets/Scene/GameOver.unity
