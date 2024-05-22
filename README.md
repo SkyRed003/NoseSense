@@ -1,4 +1,4 @@
-# Nosense
+# Nosense 👃🏻
 
 Nosense is an endless runner game developed for educational purposes by me and Emanuele De Rogatis. In this whimsical game, a nose must jump on trampolines and ascend higher and higher. The ultimate goal is to reach deep space and beyond, accumulating as many points as possible.
 
@@ -15,9 +15,9 @@ Nosense is a fun and addictive endless runner where players control a nose that 
 
 ## Features
 
-- Endless gameplay with increasing difficulty.
-- Unique character: a nose that jumps on trampolines.
-- High score tracking.
+- Endless gameplay with increasing difficulty. 🕹️
+- Unique character: a nose that jumps on trampolines. 
+- High score tracking. 💯
 
 ## Screenshots
 
