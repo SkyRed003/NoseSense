@@ -22,7 +22,9 @@ Nosense is a fun and addictive endless runner where players control a nose that 
 
 ## Screenshots
 
-[![Screenshot of the game !!](Screen1.png)]
+![Screenshot of the game !!](Screen1.png)
+
+![Screenshot of the game !!](Screen2.png)
 
 ## TestFlight
 
