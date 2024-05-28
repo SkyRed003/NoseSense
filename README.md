@@ -6,8 +6,7 @@ Nosense is an endless runner game developed for educational purposes by me and E
 - [Description](#description)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [TestFlight](#testflight)
-- [License](#license)
+- [Appstore](#appstore)
 
 ## Description
 
@@ -25,10 +24,6 @@ Nosense is a fun and addictive endless runner where players control a nose that 
 
 ![Screenshot of the game !!](Screen2.png)
 
-## License
+## Appstore
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## TestFlight
-
-[Clic Here !!!](https://testflight.apple.com/join/rqMslbnZ)
+[Now available on appstore, click here !!!](https://apps.apple.com/it/app/nose-nse/id6503223538)
